@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Generated Image</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body id="display-container">
+
+    <div class="image-container">
+        <img src="{{ image_path }}" alt="Generated image">
+    </div>
+    <br>
+<!-- add back to main page button -->
+    <div class="button-container">
+        <form action="/" method="get">
+            <input type="submit" value="generate another image">
+        </form>
+    </div>
+
+</html>
