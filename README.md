@@ -40,7 +40,7 @@ The application also stores the prompt and the path of the generated image in an
 * [SQLite](https://www.sqlite.org/index.html) - Database
 * [Pillow](https://pillow.readthedocs.io/en/stable/) - Python Imaging Library
 * [Requests](https://docs.python-requests.org/en/latest/) - HTTP library for Python
-* [Stable Diffusion]([https://docs.python-requests.org/en/latest/](https://huggingface.co/runwayml/stable-diffusion-v1-5)) - Runway Stable Diffusion Model from Huggingface
+* [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5) - Runway Stable Diffusion Model from Huggingface
 
 ## License
 
