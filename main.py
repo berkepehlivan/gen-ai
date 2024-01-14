@@ -9,7 +9,7 @@ import sqlite3
 
 
 API_URL = "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer INSERT HF TOKEN HERE"}
 
 app = Flask(__name__)
 
