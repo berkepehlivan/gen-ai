@@ -34,9 +34,9 @@ When you open the application in a web browser, you will see a form where you ca
 The application also stores the prompt and the path of the generated image in an SQLite database named `prompts_images.db`.
 
 ## Screenshots
-Main Page
+
 ![Main Page](docs/main_page.png)
-Result Page
+
 ![Result Page](docs/response_page.png)
 
 ## Built With
