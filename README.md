@@ -35,9 +35,9 @@ The application also stores the prompt and the path of the generated image in an
 
 ## Screenshots
 Main Page
-![Main Page](screenshots/main_page.png)
+![Main Page](docs/main_page.png)
 Result Page
-![Result Page](screenshots/response_page.png)
+![Result Page](docs/response_page.png)
 
 ## Built With
 
